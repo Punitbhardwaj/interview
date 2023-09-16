@@ -1,0 +1,13 @@
+Javascript Questions:-
+Map and forEach difference with examples
+Null and undefined
+ans: type of null is object and type of undefined is undefined
+console.log(null == undefined);  //true
+console.log(null === undefined); // false
+Event Delegation:-
+ans- 
+Event bubbling:
+Authentication and authorization difference
+Bouncing and Throtlling example
+
+

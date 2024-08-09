@@ -41,7 +41,7 @@ call,apply and bind difference.<br/>
 21)	Web Accessibility
 22)	Jest, React Testing Library
 
-Somat QA
+QA
 ---------
 React Hooks,  
 Reconciliation, 
@@ -73,8 +73,8 @@ webpack
 Hands on 
 ---------
 1.	Creating a Todo Application 
-a.	https://codesandbox.io/s/affectionate-mountain-2x78sz 
-b.	https://jsonplaceholder.typicode.com/todos
+a.	https://codesandbox.io/s/affectionate-mountain-2x78sz <br/>
+b.	https://jsonplaceholder.typicode.com/todos <br/>
 2.	Array/Object manipulation
 
 
